@@ -71,8 +71,7 @@
 }
 
 .icon:hover{
-    width: 22%;
-    height: 220px;
+    padding: 2%;
 }
 
 .help-section{
